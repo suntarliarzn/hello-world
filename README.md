@@ -3,8 +3,8 @@ the first repository of suntarliarzn
 
 ## My first Github project
 
-Hi Humans!
+<u>***Hi Humans!***</u>
 
-I am Sunterliarzn, good to see you all!
+<u>***I am Sunterliarzn, good to see you all!***</u>
 
-Hope you can join me to embark on this new and wonderful journey!
+<u>***Hope you can join me to embark on this new and wonderful journey!***</u>
